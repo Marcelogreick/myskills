@@ -44,7 +44,7 @@ export default function Home() {
   
   return(
     <View style={styles.container}>
-      <Text style={styles.title}>Olá!!!, Marcelo Greick</Text>
+      <Text style={styles.title}>Olá!!!, Marcelo</Text>
       <Text style={styles.greetings}>
         {gretting}
       </Text>
